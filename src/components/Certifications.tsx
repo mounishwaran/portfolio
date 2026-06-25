@@ -24,7 +24,7 @@ const Certifications: React.FC = () => {
   ];
 
   return (
-    <section id="certifications" className="py-20 bg-light-gray">
+    <section id="certifications" className="py-20 bg-light-gray scroll-mt-24">
       <div className="container mx-auto px-6">
         <motion.div
           className="text-center mb-16"

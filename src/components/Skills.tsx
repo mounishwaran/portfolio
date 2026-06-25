@@ -12,7 +12,7 @@ const Skills: React.FC = () => {
   };
 
   return (
-    <section id="skills" className="py-20 bg-light-gray">
+    <section id="skills" className="py-20 bg-light-gray scroll-mt-24">
       <div className="container mx-auto px-6">
         <motion.div
           className="text-center mb-16"

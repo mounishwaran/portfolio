@@ -27,7 +27,7 @@ const Achievements: React.FC = () => {
   ];
 
   return (
-    <section id="achievements" className="py-20 bg-white">
+    <section id="achievements" className="py-20 bg-white scroll-mt-24">
       <div className="container mx-auto px-6">
         <motion.div
           className="text-center mb-16"
